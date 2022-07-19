@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is a demo file
 Merge feature2 to main branch
 just check it ! 
+=======
+This is a demo file
+>>>>>>> b7a4aa0677265cfcfdb44c84a6c796146d1b6d6e
